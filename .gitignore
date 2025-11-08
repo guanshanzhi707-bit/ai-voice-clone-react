@@ -21,3 +21,25 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+# Environment files
+.env
+.env.backend
+
+# Upload directories
+uploads/
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+logs/
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# Vercel
+.vercel
